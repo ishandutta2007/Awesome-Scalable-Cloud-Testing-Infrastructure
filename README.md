@@ -116,9 +116,9 @@ Self-hosted, community-driven Scalable Cloud Testing Infrastructure tools. These
 
 ### ⭐ Open-Source Ranked by Stars
 
-The table below is sorted descending by **GitHub Star Count**:
+The table below is sorted descending by **GitHub Stars_Count**:
 
-| Project 📦 | GitHub Stars ⭐ | Stack 🛠️ | License 📜 | Category 🏷️ |
+| Project 📦 | GitHub_Stars ⭐ | Stack 🛠️ | License 📜 | Category 🏷️ |
 |:---|:---:|:---|:---|:---|
 | **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** | [![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers) | Java / C# / Python / JS / Ruby | Apache-2.0 | 🌐 Browser Automation Standard & Grid Core |
 | **[grafana/k6](https://github.com/grafana/k6)** | [![Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers) | Go / JavaScript | AGPL-3.0 | 📈 Distributed Load & Performance Testing CLI |
@@ -270,7 +270,7 @@ Contributions are welcome! If you know of an outstanding open-source tool, cloud
 
 Please review the contribution guidelines:
 - Ensure project is actively maintained (releases within the last 12 months).
-- Add clear stack, license, star badge, and architectural use cases.
+- Add clear stack, license, Stars_Badge, and architectural use cases.
 - Follow the existing Markdown formatting and table conventions.
 
 ---
